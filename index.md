@@ -1,6 +1,7 @@
 ---
 title: Versus CLI
 layout: home
+nav_order: 1
 ---
 
 Thanks for using the Versus CLI.

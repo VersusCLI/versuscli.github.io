@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Installation
-nav_order: 1
+nav_order: 2
 ---
 
 # Installation
@@ -19,7 +19,7 @@ npm install --global versus.js
 ## After Installation
 So after installation you can run
 ```
-versus --version
+versus version
 ```
 or
 ```
