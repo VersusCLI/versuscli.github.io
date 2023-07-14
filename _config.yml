@@ -3,7 +3,7 @@ description: A Documentation Website for Versus CLI
 theme: just-the-docs
 
 logo: "/assets/favicon-32x32.png"
-favicon: "/assets/favicon.ico"
+favicon_ico: "/assets/favicon.ico"
 
 url: https://just-the-docs.github.io
 
