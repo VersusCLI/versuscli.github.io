@@ -1,6 +1,7 @@
 ---
 title: Building
 layout: default
+parent: Jsar
 nav_order: 1
 ---
 
