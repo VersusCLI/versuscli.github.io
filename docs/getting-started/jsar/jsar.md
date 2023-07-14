@@ -2,8 +2,8 @@
 layout: default
 title: Jsar
 has_children: true
-parent: getting-started
-nav_order: 5
+parent: Getting Started
+nav_order: 1
 ---
 
 # Jsar CLI
