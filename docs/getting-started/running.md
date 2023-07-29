@@ -1,7 +1,7 @@
 ---
 title: Running A Jsar File
 layout: default
-parent: Jsar
+parent: Getting Started
 nav_order: 2
 ---
 
